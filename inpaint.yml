@@ -48,7 +48,7 @@ data_flist:
   imagenet: [
     'data/imagenet/train_shuffled.flist',
     'data/imagenet/validation_static_view.flist',
-  ],
+  ]
   manga109cropped: [
     '/content/data_flist/train_shuffled.flist',
     '/content/data_flist/validation_shuffled.flist'
